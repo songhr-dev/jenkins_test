@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d2cd354-1850-4322-80dc-7f858147a1e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aTaLiSlZ2OkwATX1NAi70yFa1D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d2cd354-1850-4322-80dc-7f858147a1e2" name="Default Changelist" comment="" />
+      <created>1586761983262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586761983262</updated>
+      <workItem from="1586761993156" duration="1913000" />
+      <workItem from="1586839682658" duration="614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="263" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586770957856">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="370" y="263" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586770957856" />
+    <state x="957" y="374" key="FileChooserDialogImpl" timestamp="1586846892445">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="957" y="374" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1586846892445" />
+  </component>
+</project>
